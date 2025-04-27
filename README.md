@@ -266,24 +266,6 @@ Syntax: find.-name”*.pdf”
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Result:
 
 Thus, the execution of various Linux commands is executed successfully using Ubuntu OS.
